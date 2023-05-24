@@ -5,7 +5,7 @@
 } */
 
 .section,.form-area{
-    background-image :url('/assets/multicolor_navber.webp');
+    background-image :url('./assets/multicolor_navber.webp');
     background-repeat: no-repeat;
     background-size:cover;
     object-fit: cover;
